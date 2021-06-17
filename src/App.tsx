@@ -2,10 +2,12 @@
 // import logo from "./logo.svg";
 // import "./App.css";
 import MainContent from "./components/MainContent"; 
+import PageHeader from "./components/PageHeader";
 
 function App() {
   return (
     <>
+      <PageHeader />
       <MainContent />
     </>
     // <div className="App">
