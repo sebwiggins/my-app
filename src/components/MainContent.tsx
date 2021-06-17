@@ -10,7 +10,7 @@ function MainContent(): JSX.Element {
             text={"The capital city of Wales, has a castle in the centre of the city"}
             />
             <Place 
-            title={"Head to the islands"}
+            title={"The islands"}
             placeName={"Lhaviyani Atoll"}
             country={"Maldives"}
             text={"The clearest water you'll ever see"}
